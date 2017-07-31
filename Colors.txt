@@ -1,0 +1,10 @@
+ALPHA VALUE: 140
+
+Hex Code for Body: #515151;  
+RGB: 83, 83, 83
+
+Hex Code for Highlight: #939393;  
+RGB: 147, 147, 147
+
+WHITE: #FFFFFF; 
+RGB: 255, 255, 255
